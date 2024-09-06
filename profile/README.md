@@ -1,6 +1,6 @@
 <div align="center" id="madewithlua">
   <img
-    src="../logo/feather.svg"
+    src="../logo/logo-no-background.png"
     width="110"
     ,
     height="100"
