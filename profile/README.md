@@ -1,6 +1,6 @@
 <div align="center" id="madewithlua">
   <img
-    src="https://ftvim.github.io/logo/ftvim.svg"
+    src="../logo/feather.svg"
     width="110"
     ,
     height="100"
